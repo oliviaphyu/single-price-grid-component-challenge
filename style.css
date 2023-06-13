@@ -114,7 +114,7 @@ body{
 
 .content-two .btn-signup:hover{
     background-color: hsl(71, 84%, 44%);
-    border-radius: 1px solid hsl(71, 84%, 44%);
+    border: 1px solid hsl(71, 84%, 44%);
 }
 .content-three{
     background-color: hsla(179, 62%, 43%, 0.8);
